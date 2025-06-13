@@ -1,0 +1,20 @@
+html{
+    margin: 0;
+    width:100%;
+}
+
+body{
+    margin: 0;
+    font-family: "Monomakh";
+    background-color: #ecedec;
+  }
+
+input{
+    color: black;
+    background-color: aliceblue;
+}
+
+.cssText{
+    font-size: large;
+    color:black
+}
